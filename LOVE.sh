@@ -1001,5 +1001,4 @@ toilet -f mono12 -F gay "I"
 toilet -f mono12 -F gay "LOVE"
 toilet -f mono12 -F gay "YOU"
 figlet BYE
-exit
-exit
+toilet -f mono12 -F gay "BYE"
