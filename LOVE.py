@@ -2,6 +2,7 @@ pkg install figlet
 pkg install python
 pkg install python2
 pkg install toilet
+pip install lolcat 
 clear
 figlet I
 figlet LOVE
