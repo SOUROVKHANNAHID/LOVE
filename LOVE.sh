@@ -1,4 +1,4 @@
-pkg install figlet && pkg install toilet
+
 figlet I
 figlet LOVE
 figlet YOU
