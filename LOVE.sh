@@ -1,4 +1,3 @@
-
 figlet I
 figlet LOVE
 figlet YOU
